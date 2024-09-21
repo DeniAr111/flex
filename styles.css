@@ -1,0 +1,140 @@
+body{
+    font-family: system-ui;
+}
+.sec1{
+    font-family: system-ui;
+}
+.header{
+      display: flex;
+      justify-content: space-around;
+      font-family: system-ui;
+}
+.logo{
+    margin: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+ul{
+     list-style: none;
+     display: flex;
+     justify-content: center;
+     gap: 15px;
+     font-size: 18px;
+}
+a{
+    text-decoration: none;
+    color: rgb(170, 162, 162);
+}
+.r{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    height: 250px;
+    width: 550px;
+    margin: 50px;
+}
+.l{
+    display: flex;
+    margin: 50px;
+}
+button{
+    color: white;
+    background-color: rgb(0, 157, 255);
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 11px 42px;
+    text-align: center;
+}
+.veluth{
+    font-weight: 900;
+    font-size: 48px;
+}
+.cheruth{
+    font-size: 18px;
+    color: rgb(181, 181, 181);
+}
+.rl{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.heading1{
+    font-weight: 900;
+    text-align: center;
+    font-size: 36px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    gap: 90px;
+  }
+  .box {
+    border: 6px solid rgb(0, 140, 255);
+    width: 150px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+  }
+  .subtext {
+    display: flex;
+    color: rgb(37, 136, 172);
+    text-align: center;
+    margin-top: 10px;
+    width: 150px;
+  }
+  .text{
+    padding: 50px;
+    font-size: 30px;
+    display: flex;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+    height: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+     }
+     p {
+        margin: 10px;
+        font-size: 24px;
+    }
+    .quote{
+        text-align: right;
+        margin-right: 100px;
+
+    }
+    .bluebox{
+        color: white;
+        align-items: center;
+        display: flex;
+        justify-content: space-around;
+        background-color: rgb(67, 112, 245);
+        height: 150px;
+        width: 900px;
+        margin-left: 275px;
+        margin-top: 150px;
+    }
+    .line1{
+        font-size: 25px;
+    }
+    .line2{
+        font-size: 18px;
+        color: rgb(243, 232, 232);
+    }
+    .buten{
+        display: flex;
+        border-color: white;
+        border-width: 4px;
+        border-radius: 10px;
+    }
+    .sec3{
+        display: flex;
+        flex-direction: column;
+    }
